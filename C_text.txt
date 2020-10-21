@@ -1,0 +1,5 @@
+Void main {}
+.Mess show {Hi}
+. Mess show well come;
+. Mess show Yes;
+End.
